@@ -60,7 +60,7 @@
 ## 📂 Repository Structure
 
 ```text
-241210047_CN/
+CN_Lab/
 ├── 1_Network_cabels/              # report (.pdf) + Packet Tracer file (.pkt)
 ├── 2_Basic_Network_Commands/
 ├── 3_Network_Devices/
@@ -96,7 +96,7 @@ Each experiment folder contains its **lab report (PDF)** and the **Cisco Packet 
 1. Install **Cisco Packet Tracer** (free with a Cisco Networking Academy account).
 2. Clone the repo, or download the `.pkt` file you need:
    ```bash
-   git clone https://github.com/241210047/241210047_Networks.git
+   git clone https://github.com/AkshatSalgotra/CN_Lab.git
    ```
 3. Open the `.pkt` file in Packet Tracer (`File → Open`, or double-click it).
 
