@@ -19,7 +19,6 @@
 | **Name** | Akshat Salgotra |
 | **Roll No.** | 241210014 |
 | **Subject** | Computer Networks Lab (CN Lab) |
-| **GitHub** | [@241210047](https://github.com/AkshatSalgotra) |
 
 ---
 
